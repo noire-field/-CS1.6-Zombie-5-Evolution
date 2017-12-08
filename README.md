@@ -1,10 +1,10 @@
-###Zombie 5: Evolution is a new gameplay for Counter-Strike 1.6, developed as an AMX MOD X plugin. It’s a zombie infection mode with new playing style. The round starts with 20 seconds of counting, random players will be chosen as zombies and sidekicks. Sidekick is a type of player that wields powerful weapon. In order to evolve, zombies must find and absorb ‘Zombie Crystal’, which dead zombies drop on death. At midnight, random humans will be chosen as Heroes, zombies become stronger… Let’s the game begin.
+Zombie 5: Evolution is a new gameplay for Counter-Strike 1.6, developed as an AMX MOD X plugin. It’s a zombie infection mode with new playing style. The round starts with 20 seconds of counting, random players will be chosen as zombies and sidekicks. Sidekick is a type of player that wields powerful weapon. In order to evolve, zombies must find and absorb ‘Zombie Crystal’, which dead zombies drop on death. At midnight, random humans will be chosen as Heroes, zombies become stronger… Let’s the game begin.
 
-##Game Objectives
+#Game Objectives
 * Human: Eliminate all zombies or survive until the end
 * Zombie: Infect all humans. Absorb ‘Zombie Crystal’ and evolve to unlock zombie class abilities
 
-##Game Features
+#Game Features
 * Zombie Crystals will be dropped randomly in the map or when a zombie dies
 * Stick with other humans to increase your ATK (fire power)
 * Your ATK will increase if your near teammate dies
@@ -20,13 +20,13 @@
 * Open ‘Game Menu’ with [M] to: Select Zombie Class, Open Item Merchant,…
 
 
-##Human Abilities:
+#Human Abilities:
 * [Double W] Sprint: Increase your speed.
 * [T] Deadly Shot (Death Confirmation Shot): During 5 seconds of activation, any body part of a zombie that is hit by the player’s weapon will be counted as headshots. Damage will be increased as high as headshot damage
 * [B] Stun Self-Destruct: Stun all near zombies to you for 3 seconds.
 
 
-##Zombie Classes:
+#Zombie Classes:
 * Regular Zombie: Berserk + Climb
 * Light Zombie: Cloak + Leap
 * Heavy Zombie: Set Trap
@@ -38,7 +38,7 @@
 * Sting Finger: Penetrate + Blind Flash
 * Venom Guard: Howl + Self-Destruction
 
-##Mod Information
+#Mod Information
 * Name: Zombie 5: Evolution
 * System Name: zombie_evolution
 * Short Name: ZEVO
