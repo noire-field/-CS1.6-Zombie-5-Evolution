@@ -1,4 +1,4 @@
-#### Zombie 5: Evolution is a new gameplay for Counter-Strike 1.6, developed as an AMX MOD X plugin. It’s a zombie infection mode with new playing style. The round starts with 20 seconds of counting, random players will be chosen as zombies and sidekicks. Sidekick is a type of player that wields powerful weapon. In order to evolve, zombies must find and absorb ‘Zombie Crystal’, which dead zombies drop on death. At midnight, random humans will be chosen as Heroes, zombies become stronger… Let’s the game begin.
+#### Zombie 5: Evolution ##### is a new gameplay for Counter-Strike 1.6, developed as an AMX MOD X plugin. It’s a zombie infection mode with new playing style. The round starts with 20 seconds of counting, random players will be chosen as zombies and sidekicks. Sidekick is a type of player that wields powerful weapon. In order to evolve, zombies must find and absorb ‘Zombie Crystal’, which dead zombies drop on death. At midnight, random humans will be chosen as Heroes, zombies become stronger… Let’s the game begin.
 
 ## Game Objectives
 * Human: Eliminate all zombies or survive until the end
