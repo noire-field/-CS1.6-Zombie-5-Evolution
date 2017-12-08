@@ -1,0 +1,155 @@
+[en]
+GAME_NAME = Zombie 5: Evolution
+
+NOTICE_PLAYERREQUIRED = Waiting for players to join...
+NOTICE_GAMESTART = Let the game begin!
+NOTICE_COUNTDOWN = %i second(s) remaining for the apocalypse!
+NOTICE_ZOMBIEARRIVE = ZOMBIES ARE COMING!
+NOTICE_PERMDEATH = Can't revive with a headshot death!
+NOTICE_REVIVING = You will return in %i second(s)!
+NOTICE_ATKUP = MORALE STAGE: BOOST TO %i%%!
+NOTICE_EVOLVED = YOU HAVE EVOLVED TO LV.%i!
+NOTICE_INFECTED = YOU HAVE BEEN INFECTED!
+NOTICE_SUPPLYDROP = Supplies has been dropped! Find them by using radar!
+NOTICE_SIDEKICK = YOU ARE THE 'SIDEKICK'!
+NOTICE_SIDEKICK2 = Select [%s] to be 'SIDEKICK'!
+NOTICE_HERO = YOU ARE THE 'HERO'!
+NOTICE_HERO2 = Select [%s] to be 'HERO'!
+NOTICE_THANATOS = YOU ARE THE 'THANATOS'!
+NOTICE_THANATOS2 = Select [%s] to be 'THANATOS'!
+NOTICE_GAMENOTSTART = Game is not started... Please Wait!
+
+TRANSCRIPT_11 = TIP : Stick with other humans to increase your ATK.
+TRANSCRIPT_12 = TIP : Supplies will come. We dont know when but find it!
+TRANSCRIPT_13 = TIP : Try to kill zombie with headshot, they will not revive.
+TRANSCRIPT_21 = TIP : As a zombie, absorb 'Zombie Crystal' to evolve and unlock abilities.
+TRANSCRIPT_22 = TIP : Avoid being killed with headshot, you will not be able to revive
+TRANSCRIPT_23 = TIP : Stand still for some seconds to recover your health.
+TRANSCRIPT_31 = TIP : Random humans will be chosen as 'Sidekick' and 'Hero' with powerful weapons.
+TRANSCRIPT_32 = TIP : Zombies are equipped with 2 zombie grenades, use them.
+TRANSCRIPT_33 = TIP : When a teammate near to you dies, your ATK power will increase.
+TRANSCRIPT_41 = CAPTAIN : I feel something is coming...
+TRANSCRIPT_42 = CAPTAIN : Becareful, I see something in my radar...
+TRANSCRIPT_43 = CAPTAIN : Wait... What is this blood from?
+TRANSCRIPT_44 = CAPTAIN : Ain't seen anything like this before..
+TRANSCRIPT_45 = CAPTAIN : Oh, this is gonna get bad...
+TRANSCRIPT_51 = CAPTAIN : OH SHIT... GET BACK!
+TRANSCRIPT_52 = CAPTAIN : HERE THEY COME!
+TRANSCRIPT_53 = CAPTAIN : GET READY!
+TRANSCRIPT_54 = CAPTAIN : HEY! DON'T TOUCH THAT BLOOD!
+TRANSCRIPT_55 = CAPTAIN : DAMN IT! THEY ARE COMING!
+
+TRANSCRIPT_ZOMBIE1 = I...am...a ZOMBIE!!! ... Attack... Kill Humans.... Kill! Kill!
+TRANSCRIPT_ZOMBIE2 = Zombies... i..need..Crystal.....Crystal....!
+TRANSCRIPT_ZOMBIE3 = Humans are our... slaves, we'll get... eternal life!
+
+MENU_GAME_NAME = Welcome to 'Zombie 5: Evolution'
+MENU_CLASS_NAME = Select Zombie Class
+MENU_ITEM_NAME = Item Merchant
+MENU_WEAPON_NAME = Select Weapon
+
+MENU_GAME_EQUIP = Equipment
+MENU_GAME_ITEM = Item Merchant
+MENU_GAME_CLASS = Zombie Class
+MENU_GAME_ENHANCE = Player Enhancement
+MENU_GAME_HELP = How To Play
+MENU_GAME_THANATOS = Thanatos System Control Board
+
+GAME_HELP_GAMEPLAY = Gameplay
+GAME_HELP_FEATURE = Features
+GAME_HELP_HUMAN = Human
+GAME_HELP_ZOMBIE = Zombie
+GAME_HELP_ZOMBIECLASS = Zombie Classes
+
+HUD_WIN_ZOMBIE = ZOMBIE WIN!
+HUD_WIN_HUMAN = HUMAN WIN!
+HUD_ATK = ATK
+HUD_EVO = EVOLUTION LEVEL
+
+GAME_NOTICE_REMINDHELP = Press !t[M]!n and !t[5]!n to know how to play this mode!
+GAME_NOTICE_REMINDZBCLASS = Press !t[M]!n and !t[3]!n to select !tZombie Class!n
+GAME_NOTICE_ZOMBIE = You HP is !t%i!n. Press [N] to activate !tNightvision!n!
+GAME_NOTICE_PICKCRYSTAL = You've picked up a '!tCrystal!n'
+GAME_NOTICE_NEXTCLASS = You'll become !t%s!n next time of becoming zombie!
+GAME_NOTICE_ITEMBUY = You've bought !t[%s]!n with !t$%i!n!
+GAME_NOTICE_ITEMROUND = You've unlocked !t[%s (1 Round)]!n  with !t$%i!n!
+GAME_NOTICE_ITEMMAP = You've unlocked !t[%s (Unlimited)]!n  with !t$%i!n!
+GAME_NOTICE_ITEMFREE = You've got !t[%s (FREE)]!n
+GAME_NOTICE_MONEYREQ = You need !t$%i!n to get !t[%s]!n...
+GAME_NOTICE_ITEMALREADY = You already have !t[%s]!n...
+
+HUMAN_SKILL_SPRINT = Fast Run
+HUMAN_SKILL_DEADLYSHOT = Deadly Shot
+HUMAN_SKILL_STUN = Stun Self-Destruct
+
+ZOMBIE_SKILL_LEFTMOUSE = Left Mouse
+ZOMBIE_SKILL_LVREQ = Lv.%i
+
+ZOMBIE_REGULAR_NAME = Regular Zombie
+ZOMBIE_REGULAR_DESC = Berserk + Climb
+ZOMBIE_REGULAR_SKILL_BERSERK = Berserk
+ZOMBIE_REGULAR_SKILL_CLIMB = Climb
+
+ZOMBIE_LIGHT_NAME = Light Zombie
+ZOMBIE_LIGHT_DESC = Cloak + Leap
+ZOMBIE_LIGHT_SKILL_INV = Cloak
+ZOMBIE_LIGHT_SKILL_LEAP = Leap
+
+ZOMBIE_HEAVY_NAME = Heavy Zombie
+ZOMBIE_HEAVY_DESC = Make Trap
+ZOMBIE_HEAVY_SKILL_SET = Set Trap
+ZOMBIE_HEAVY_SKILL_THROW = Throw Trap
+
+ZOMBIE_PSYCHO_NAME = Psycho Zombie
+ZOMBIE_PSYCHO_DESC = Smokescreen
+ZOMBIE_PSYCHO_SKILL_POP = Smokescreen
+ZOMBIE_PSYCHO_SKILL_THROW = Throw Smoke Grenade
+
+ZOMBIE_VOODOO_NAME = Voodoo Zombie
+ZOMBIE_VOODOO_DESC = Healing
+ZOMBIE_VOODOO_SKILL_HEAL = Self-Healing
+ZOMBIE_VOODOO_SKILL_SET = Set 'Demonic Spirit'
+ZOMBIE_VOODOO_FULL = You health is full!
+
+ZOMBIE_DEIMOS_NAME = Deimos
+ZOMBIE_DEIMOS_DESC = Mahadash + Shock
+ZOMBIE_DEIMOS_SKILL_DASH = Mahadash
+ZOMBIE_DEIMOS_SKILL_SHOCK = Shock
+
+ZOMBIE_BANSHEE_NAME = Victorique
+ZOMBIE_BANSHEE_DESC = Summon + Disguise
+ZOMBIE_BANSHEE_SKILL_BAT = Summon Bats
+ZOMBIE_BANSHEE_SKILL_DISGUISE = Disguise
+
+ZOMBIE_STAMPER_NAME = Dark Keeper
+ZOMBIE_STAMPER_DESC = Making 'Iron Maiden'
+ZOMBIE_STAMPER_SKILL_STAMP = Stamp 'Iron Maiden'
+ZOMBIE_STAMPER_SKILL_IRON = Iron Guardian
+
+ZOMBIE_STINGFINGER_NAME = Sting Finger
+ZOMBIE_STINGFINGER_DESC = Penetrate + Flashing
+ZOMBIE_STINGFINGER_SKILL_FINGE = Penetrate
+ZOMBIE_STINGFINGER_SKILL_FLASH = Flashing
+
+ZOMBIE_VENOMGUARD_NAME = Venom Guard
+ZOMBIE_VENOMGUARD_DESC = Howling + Self-Destruction
+ZOMBIE_VENOMGUARD_SKILL_HOWL = Howling
+ZOMBIE_VENOMGUARD_SKILL_SELF = Self-Destruction
+
+MILEAGE_WEAPON = Mileage Weapon
+MILEAGE_PRIMARY = Primary Weapon
+MILEAGE_SECONDARY = Secondary Weapon
+MILEAGE_MELEE = Melee Weapon
+MILEAGE_GRENADE = Grenade
+MILEAGE_GET = Get Weapons!
+MILEAGE_MINPL = Min Player
+MILEAGE_VIPONLY = Vip Only
+MILEAGE_UNLOCK = You've unlocked !t[%s]!n with !t$%i!n!
+MILEAGE_MONEYREQ = You need !t$%i!n to unlock !t[%s]!n.
+MILEAGE_LEVELREQ = Your level must be !t%i!n or higher to use !t[%s]!n.
+MILEAGE_PLAYERREQ = Minimum players for !t[%s]!n is !t%i!n.
+MILEAGE_VIPREQ = !t[%s]!n is for !tVIP!n players only.
+
+MILEAGE_ASK = Do you want to open Weapon Menu ?
+MILEAGE_YES = YES!
+MILEAGE_NO = NO!
